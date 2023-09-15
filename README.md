@@ -8,7 +8,7 @@
 <!--## :heavy_check_mark: Certifications
 
 [![AWS Developer Associate](/dev.png)](https://www.credly.com/badges/4c5a6916-9679-4500-9eb8-e3042d073dd2/public_url)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M2D3V&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
 <!--
 **M2D3V/M2D3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
