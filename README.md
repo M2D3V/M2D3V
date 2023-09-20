@@ -8,7 +8,8 @@
 
 <div style="display:flex;justify-text-align:center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M2D3V&show_icons=true&bg_color=2E2E2E&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true)[![GitHub Streak](https://streak-stats.demolab.com?user=M2D3V&theme=github-dark-dimmed&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&background=320%2C191919%2C2E2E2E&border=8B8B8B&sideNums=EB0000&sideLabels=FFFFFF&dates=EB91EB9C&stroke=EB81A6&currStreakNum=FFFFFF&ring=EB81A6&fire=EB3EC0&currStreakLabel=CE4698)](https://git.io/streak-stats) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M2D3V&show_icons=true&bg_color=2E2E2E&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=M2D3V&theme=github-dark-dimmed&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&background=320%2C191919%2C2E2E2E&border=8B8B8B&sideNums=EB0000&sideLabels=FFFFFF&dates=EB91EB9C&stroke=EB81A6&currStreakNum=FFFFFF&ring=EB81A6&fire=EB3EC0&currStreakLabel=CE4698)](https://git.io/streak-stats) <br>
 </div>
 
 **M2D3V Profiler** is a ✨ _special_ ✨ repository because its 
