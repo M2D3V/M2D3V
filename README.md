@@ -1,4 +1,7 @@
-## M2DEV Service <br>[![DISCORD](https://img.shields.io/badge/M2.Devloper-%231572B6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pBsj94TaJT)&nbsp;[![DISCORD](https://img.shields.io/badge/GITHUB-%231572B6.svg?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/pBsj94TaJT)
+## M2DEV Service <br>
+[![DISCORD](https://img.shields.io/badge/M2.Devloper-%231572B6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pBsj94TaJT)&nbsp;
+[![GITHUB](https://img.shields.io/badge/GITHUB-%231572B6.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M2D3V/)&nbsp;
+[![GITHUB.IO](https://img.shields.io/badge/GITHUB.IO-%FF1111.svg?style=for-the-badge&logo=github&logoColor=white)](https://M2D3V.github.io/)
 
 ## :hammer_and_wrench: Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
